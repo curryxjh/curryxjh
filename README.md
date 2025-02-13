@@ -1,1 +1,7 @@
-![Metrics](https://metrics.lecoq.io/curryxjh?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=fjqz177" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curryxjh&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-curryxjh.vercel.app/graph?username=curryxjh&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
