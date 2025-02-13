@@ -1,9 +1,3 @@
-<div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=curryxjh" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curryxjh&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
-</div>
-
 <h1 align="center">Hi 👋, I'm xjh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curryxjh&label=Profile%20views&color=0e75b6&style=flat" alt="curryxjh" /> </p>
 
