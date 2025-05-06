@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm xjh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curryxjh&label=Profile%20views&color=0e75b6&style=flat" alt="curryxjh" /> </p>
 
-- 🌱 I’m currently learning **GoLang, CPP**
+- 🌱 I’m currently learning **GoLang, CPP, RUST**
 
 - 📫 How to reach me **nil541203@gmail.com**
 
