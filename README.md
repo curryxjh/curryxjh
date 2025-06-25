@@ -30,11 +30,12 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curryxjh&show_icons=true&locale=en&layout=donut" alt="curryxjh" /></p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinchaturvedi93&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </p>
 
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curryxjh&show_icons=true&locale=en&layout=donut" alt="curryxjh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curryxjh&show_icons=true&locale=en" alt="curryxjh" /></p>
