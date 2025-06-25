@@ -1,4 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+![](https://raw.githubusercontent.com/curryxjh/curryxjh/refs/heads/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm xjh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curryxjh&label=Profile%20views&color=0e75b6&style=flat" alt="curryxjh" /> </p>
 
@@ -30,9 +31,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />  
 </p>
-
-
-  ![](https://raw.githubusercontent.com/curryxjh/curryxjh/refs/heads/output/github-contribution-grid-snake.svg)
 
 
 <p>
