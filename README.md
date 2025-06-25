@@ -5,9 +5,12 @@
 
 ![](https://raw.githubusercontent.com/curryxjh/curryxjh/refs/heads/output/github-contribution-grid-snake.svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C44F7&center=true&vCenter=true&width=435&lines=Hi!+%E4%BF%9D%E6%8C%81%E5%BC%80%E5%BF%83!!!+%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB%E3%80%82)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C44F7&center=true&vCenter=true&width=435&lines=%E6%97%A5%E6%8B%B1%E4%B8%80%E5%8D%92%E6%97%A0%E6%9C%89%E5%B0%BD%EF%BC%8C%E5%8A%9F%E4%B8%8D%E5%94%90%E6%8D%90%E7%BB%88%E5%85%A5%E6%B5%B7%E3%80%82)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C44F7&width=435&lines=%E6%97%A5%E6%8B%B1%E4%B8%80%E5%8D%92%E6%97%A0%E6%9C%89%E5%B0%BD%EF%BC%8C%E5%8A%9F%E4%B8%8D%E5%94%90%E6%8D%90%E7%BB%88%E5%85%A5%E6%B5%B7%E3%80%82" alt="Typing SVG" /></a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curryxjh&label=Profile%20views&color=0e75b6&style=flat" alt="curryxjh" /> </p>
 
