@@ -10,7 +10,10 @@
 <p align="left">
 <a href="https://leetcode.cn/u/keen-turingoyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="账号已注销" height="30" width="40" /></a>
 </p>
-
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
