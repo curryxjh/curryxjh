@@ -1,9 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h1 align="center">
-	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hi! I'm xjh, 祝您愉快每一天!!!&center=true&size=27">
-	</a>
+	[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+%E4%BF%9D%E6%8C%81%E5%BC%80%E5%BF%83!!!+%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB)](https://git.io/typing-svg)
 </h1>
 
 
