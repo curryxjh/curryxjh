@@ -30,12 +30,10 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />  
 </p>
+<p>
+  ![](https://raw.githubusercontent.com/curryxjh/curryxjh/main/dist/github-contribution-grid-snake.svg)  
+</p>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/curryxjh/curryxjh/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/curryxjh/curryxjh/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curryxjh&show_icons=true&locale=en&layout=donut" alt="curryxjh" />  
