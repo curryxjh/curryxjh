@@ -1,6 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h1 align="center">Hi! I'm xjh</h1>
+
+<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm xjh</h1>
 
 ![](https://raw.githubusercontent.com/curryxjh/curryxjh/refs/heads/output/github-contribution-grid-snake.svg)
 
