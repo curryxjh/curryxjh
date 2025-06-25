@@ -1,6 +1,11 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h1 align="center">Hi 👋, I'm xjh</h1>
+<h1 align="center">
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Hello%2C%20World!%22);Hi! I'm xjh, 祝您愉快每一天!!!&center=true&size=27">
+	</a>
+</h1>
+
 
 
 ![](https://raw.githubusercontent.com/curryxjh/curryxjh/refs/heads/output/github-contribution-grid-snake.svg)
