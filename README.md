@@ -1,8 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h1 align="center">
+<p align="center">
 	[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+%E4%BF%9D%E6%8C%81%E5%BC%80%E5%BF%83!!!+%E7%83%AD%E7%88%B1%E7%94%9F%E6%B4%BB)](https://git.io/typing-svg)
-</h1>
+</p>
 
 
 
