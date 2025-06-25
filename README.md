@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">Hi 👋, I'm xjh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curryxjh&label=Profile%20views&color=0e75b6&style=flat" alt="curryxjh" /> </p>
 
@@ -16,11 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curryxjh&show_icons=true&locale=en&layout=donut" alt="curryxjh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curryxjh&show_icons=true&locale=en" alt="curryxjh" /></p>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
