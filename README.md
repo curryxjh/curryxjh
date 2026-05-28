@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curryxjh&label=Profile%20views&color=0e75b6&style=flat" alt="curryxjh" /> </p>
 
-- 🌱 I’m currently learning **GoLang, CPP, RUST**
+- 🌱 I’m currently learning **GoLang, CPP, RUST, Python, LLM**
 
 - 📫 How to reach me **nil541203@gmail.com**
 
@@ -39,10 +39,9 @@
 </p>
 
 
+<h3 align="left">📊 GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curryxjh&show_icons=true&locale=en&layout=donut" alt="curryxjh" />  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=curryxjh&show_icons=true&locale=en" alt="curryxjh" /></p>
+  <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=curryxjh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="320"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=curryxjh&theme=dark&hide_border=false" width="320"/>
+  <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=curryxjh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="320"/>
 </p>
-
-
-
